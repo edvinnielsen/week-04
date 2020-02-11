@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(187, 132, 31);
+    color: rgb(255, 255, 255);
+}
+
+.author {
+    font-size: 90px;
+    color: rgb(235, 235, 235);
+}
